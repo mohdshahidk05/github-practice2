@@ -1,2 +1,4 @@
 Hello GitHub 2
 this is my second feature branch update
+thrid line updated
+with 4th line
